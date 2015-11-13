@@ -1,0 +1,6 @@
+# allgemeinkram
+.directory
+
+# KiCAD
+*.bak
+*.kicad_pcb-bak
