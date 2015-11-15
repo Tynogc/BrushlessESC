@@ -9,3 +9,6 @@ SPD50P03LGINCT-ND, Infineon, SPD50P03L G, P-Channel 30V 50A
 
 SI7145DP-T1-GE3CT-ND, Vishay, SI7145DP-T1-GE3, P-Channel, 30V, 60A, PowerPAK SO-8, 2.6mOhm Rds ON, passt zu darüber
 SIRA00DP-T1-GE3CT-ND, Vishay, SIRA00DP-T1-GE3, N-Channel, 30V, 100A, PowerPAK SO-8, 1mOhm Rds ON
+
+Drivers:
+LTC4359CMS8#PBF-ND, Linear Tech., LTC4359CMS8#PBF, Ideal Diode Controler - Verwenden wie Switch-Beispiel: Strom erhöhen!
