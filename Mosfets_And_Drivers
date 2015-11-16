@@ -1,0 +1,14 @@
+Hier mal kurz einige der FETs die ich geerade raussuche:
+Problem: Gute FETs gibts nicht auch als P-Kanal...
+Angaben: [DigiKey-Nummer],[Hersteller],[Hersteller-Nr],[Bemerkung]
+
+IPD042P03L3GATMA1CT-ND, Infineon, IPD042P03L3GATMA1, P-Channel 30V 70A --- Pakage prüfen
+SPD50P03LGINCT-ND, Infineon, SPD50P03L G, P-Channel 30V 50A
+
+568-6720-1-ND, NXP, PSMN0R9-25YLC,115 , N-Channel, PowerPAK SO-8, 1mOhm Rds ON, gibt es NICHT als P-Channel
+
+SI7145DP-T1-GE3CT-ND, Vishay, SI7145DP-T1-GE3, P-Channel, 30V, 60A, PowerPAK SO-8, 2.6mOhm Rds ON, passt zu darüber
+SIRA00DP-T1-GE3CT-ND, Vishay, SIRA00DP-T1-GE3, N-Channel, 30V, 100A, PowerPAK SO-8, 1mOhm Rds ON
+
+Drivers:
+LTC4359CMS8#PBF-ND, Linear Tech., LTC4359CMS8#PBF, Ideal Diode Controler - Verwenden wie Switch-Beispiel: Strom erhöhen!
