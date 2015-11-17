@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb 0.201411091246+5258~19~ubuntu14.04.1-product   date = Mo 16 Nov 2015 17:45:09 CET
+Cmp-Mod V01 Created by Cvpcb 0.201411091246+5258~19~ubuntu14.04.1-product   date = Di 17 Nov 2015 10:48:39 CET
 
 BeginCmp
 TimeStamp = /564A0FEA;
@@ -200,84 +200,84 @@ BeginCmp
 TimeStamp = /5649F36B;
 Reference = Q1;
 ValeurCmp = MOSFET_N;
-IdModule  = toni:SO8_WITH_EP;
+IdModule  = sven:SO8_WITH_Heatpipes;
 EndCmp
 
 BeginCmp
 TimeStamp = /5649F320;
 Reference = Q2;
 ValeurCmp = MOSFET_N;
-IdModule  = toni:SO8_WITH_EP;
+IdModule  = sven:SO8_WITH_Heatpipes;
 EndCmp
 
 BeginCmp
 TimeStamp = /56497E4C;
 Reference = Q3;
 ValeurCmp = MOSFET_N;
-IdModule  = toni:SO8_WITH_EP;
+IdModule  = sven:SO8_WITH_Heatpipes;
 EndCmp
 
 BeginCmp
 TimeStamp = /5645A4E6;
 Reference = Q4;
 ValeurCmp = MOSFET_N;
-IdModule  = toni:SO8_WITH_EP;
+IdModule  = sven:SO8_WITH_Heatpipes;
 EndCmp
 
 BeginCmp
 TimeStamp = /564A659C;
 Reference = Q5;
 ValeurCmp = MOSFET_N;
-IdModule  = toni:SO8_WITH_EP;
+IdModule  = sven:SO8_WITH_Heatpipes;
 EndCmp
 
 BeginCmp
 TimeStamp = /564A6596;
 Reference = Q6;
 ValeurCmp = MOSFET_N;
-IdModule  = toni:SO8_WITH_EP;
+IdModule  = sven:SO8_WITH_Heatpipes;
 EndCmp
 
 BeginCmp
 TimeStamp = /564A6565;
 Reference = Q7;
 ValeurCmp = MOSFET_N;
-IdModule  = toni:SO8_WITH_EP;
+IdModule  = sven:SO8_WITH_Heatpipes;
 EndCmp
 
 BeginCmp
 TimeStamp = /564A6533;
 Reference = Q8;
 ValeurCmp = MOSFET_N;
-IdModule  = toni:SO8_WITH_EP;
+IdModule  = sven:SO8_WITH_Heatpipes;
 EndCmp
 
 BeginCmp
 TimeStamp = /564A6AF7;
 Reference = Q9;
 ValeurCmp = MOSFET_N;
-IdModule  = toni:SO8_WITH_EP;
+IdModule  = sven:SO8_WITH_Heatpipes;
 EndCmp
 
 BeginCmp
 TimeStamp = /564A6AF1;
 Reference = Q10;
 ValeurCmp = MOSFET_N;
-IdModule  = toni:SO8_WITH_EP;
+IdModule  = sven:SO8_WITH_Heatpipes;
 EndCmp
 
 BeginCmp
 TimeStamp = /564A6AC0;
 Reference = Q11;
 ValeurCmp = MOSFET_N;
-IdModule  = toni:SO8_WITH_EP;
+IdModule  = sven:SO8_WITH_Heatpipes;
 EndCmp
 
 BeginCmp
 TimeStamp = /564A6A8E;
 Reference = Q12;
 ValeurCmp = MOSFET_N;
-IdModule  = toni:SO8_WITH_EP;
+IdModule  = sven:SO8_WITH_Heatpipes;
 EndCmp
 
 BeginCmp
