@@ -1,4 +1,4 @@
-(kicad_pcb (version 4) (host pcbnew 0.201511171411+6319~30~ubuntu15.10.1-product)
+(kicad_pcb (version 4) (host pcbnew 0.201512031508+6343~38~ubuntu15.10.1-stable)
 
   (general
     (links 436)
@@ -3228,7 +3228,7 @@
     )
   )
 
-  (gr_text "Toni Bratsch" (at 212.852 109.347) (layer F.SilkS)
+  (gr_text "Toni Bartsch" (at 212.852 109.347) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.1)))
   )
   (gr_text "Philipp Hörauf" (at 213.614 108.1532) (layer F.SilkS)
@@ -3259,7 +3259,7 @@
   (gr_text GND (at 203.708 56.388) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "Sven T. S. Rev:1" (at 219.456 109.474) (layer B.Cu)
+  (gr_text "Sven T. S. Rev:1.1\n" (at 218.948 109.474) (layer B.Cu)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_text "(C) Sven T. Schneider" (at 199.39 75.692) (layer B.SilkS)

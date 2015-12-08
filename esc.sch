@@ -361,7 +361,7 @@ U 1 1 56448322
 P 3700 2250
 F 0 "C3" H 3700 2350 40  0000 L CNN
 F 1 "220µ" H 3706 2165 40  0000 L CNN
-F 2 "Capacitors_Elko_ThroughHole:Elko_vert_11x5mm_RM2_CopperClear" H 3738 2100 30  0001 C CNN
+F 2 "Capacitors_ThroughHole:C_Radial_D8_L13_P3.8" H 3738 2100 30  0001 C CNN
 F 3 "" H 3700 2250 60  0000 C CNN
 	1    3700 2250
 	1    0    0    -1  
